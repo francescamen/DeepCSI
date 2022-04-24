@@ -128,7 +128,7 @@ The following script in the `Matlab_code` folder allows creating synthetic Wi-Fi
 matlab beamforming_matrix_analysis_quantization.m
 ```
 
-### Contact
+## Contact
 Francesca Meneghello 
 meneghello@dei.unipd.it 
 github.com/francescamen
