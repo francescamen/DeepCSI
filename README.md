@@ -17,7 +17,7 @@ If you find the project useful and you use this code, please cite our article:
 Clone the repository and enter the folder with the python code:
 ```bash
 cd <your_path>
-git clone https://github.com/signetlabdei/DeepCSI
+git clone https://github.com/francescamen/DeepCSI
 ```
 
 Download the input data from http://researchdata.cab.unipd.it/id/eprint/623 and unzip the file.
