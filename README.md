@@ -1,7 +1,7 @@
 # DeepCSI
 Algorithm for radio fingerprinting of MU-MIMO Wi-Fi transmitters that leverages the beamforming feedback matrices sent by the beamformees to the beamformer to enable beamforming.
 
-This repository contains the reference code for the article [''DeepCSI: Rethinking Wi-Fi Radio FingerprintingThrough MU-MIMO CSI Feedback Deep Learning''](https://arxiv.org/abs/2204.07614).
+This repository contains the reference code for the article [''DeepCSI: Rethinking Wi-Fi Radio FingerprintingThrough MU-MIMO CSI Feedback Deep Learning''](https://ieeexplore.ieee.org/document/9912203).
 
 If you find the project useful and you use this code, please cite our article:
 ```
