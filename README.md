@@ -8,7 +8,7 @@ If you find the project useful and you use this code, please cite our article:
 @inproceedings{meneghello2022deepcsi,
   author = {Meneghello, Francesca and Rossi, Michele and Restuccia, Francesco},
   title = {{DeepCSI: Rethinking Wi-Fi Radio FingerprintingThrough MU-MIMO CSI Feedback Deep Learning}},
-  booktitle = {IEEE International Conference on Distributed Computing Systems},
+  booktitle = {Proc. of the IEEE International Conference on Distributed Computing Systems (ICDCS)},
   year = {2022}
 }
 ```
