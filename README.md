@@ -90,9 +90,8 @@ e.g., python learning_test_different_beamformee.py ./dataset/ BE,57 9 finger_rev
 ### Utilities
 To plot the confusion matrices use the following script.
 ```bash
-python learning_plots.py <'name for the model to be saved'> <'ID of the beamformee considered (`57` or `BE`)'> <'ID of the beamformee position in {1, ..., 9}'> <'number of transmitter antennas'> <'number of receiver antennas'> <'indices of the transmitter antennas to consider, comma separated'> <'indices of the receiver antennas to consider, comma separated'> <'bandwidth'> <'model type in {`convolutional`, `attention`}'> <'scenario considered in {S1, S2, S3, S4, S4_diff, S5, S6, hyper}'>
+python learning_plots.py <'name for the model saved'> <'ID of the beamformee considered (`57` or `BE`)'> <'ID of the beamformee position in {1, ..., 9}'> <'number of transmitter antennas'> <'number of receiver antennas'> <'indices of the transmitter antennas to consider, comma separated'> <'indices of the receiver antennas to consider, comma separated'> <'bandwidth'> <'model type in {`convolutional`, `attention`}'> <'scenario considered in {S1, S2, S3, S4, S4_diff, S5, S6, hyper}'>
 ```
-e.g., python learning_test_different_beamformee.py ./dataset/ BE,57 9 finger_rev_ 3 2 0,1,2 0 80 attention _ S1
 
 The performance of the model by changing the hyperparameter can be visualized through the following script.
 ```bash
